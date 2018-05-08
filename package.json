@@ -1,0 +1,37 @@
+{
+  "name": "YouNews",
+  "version": "1.0.0",
+  "description": "'scraper scraper' -Mac Dre",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctvogan88/YouNews.git"
+  },
+  "keywords": [],
+  "author": "Clayton Vogan",
+  "contributors": [
+    "David Miller (http://davidmiller.io/)"
+  ],
+  "templateURL": "https://github.com/BlackrockDigital/startbootstrap-small-business.git",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctvogan88/YouNews/issues"
+  },
+  "homepage": "https://github.com/ctvogan88/YouNews#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bootstrap": "^4.1.1",
+    "browser-sync": "^2.24.4",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "gulp": "^3.9.1",
+    "jquery": "^3.3.1",
+    "mongoose": "^5.0.17",
+    "morgan": "^1.9.0",
+    "request": "^2.85.0"
+  }
+}
